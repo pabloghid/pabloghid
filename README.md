@@ -6,7 +6,7 @@
   
 
   
-  - Tenho conhecimento em várias linguagens de programação, como Python, PHP, Javascript, C++, MySQL e PostgreSQL. Além disso, tenho experiência nos frameworks Django, Flask, Laravel e CodeIgniter.
+  - Tenho conhecimento em várias linguagens de programação, como Python, PHP, Javascript, C++, MySQL e PostgreSQL. Também tenho experiência nos frameworks Django, Flask, Laravel e CodeIgniter.
 - Além disso, participo da equipe de robótica Cavalo Vendado (FTC Team #16786, FRC Team #9066). Lá, atuo como mentor dos alunos e também participo da FRC e outras competições. [Cavalo Vendado](https://www.instagram.com/cavalovendado/)  
  
   
