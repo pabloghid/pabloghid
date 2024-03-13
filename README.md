@@ -1,13 +1,13 @@
 
 
 
-<h1 align="center">Opa, bem vindo ao meu GitHub, me chamo Pablo Ghidini</h1>  
-<h3 align="center">Sou um desenvolvedor com mais de 2 anos de experiência no mercado. Comecei a programar no ensino médio, participando da equipe de robótica e continuo desde então. Sou apaixonado por tecnologia, robótica, IA, análise de dados e desenvolvimento web.</h3>  
+<h1 align="center">Bem vindo ao meu GitHub, me chamo Pablo Ghidini</h1>  
+<h3 align="center">Sou um desenvolvedor com mais de 3 anos de experiência no mercado. Comecei a programar no ensino médio, participando da equipe de robótica e continuo desde então. Sou apaixonado por tecnologia, robótica, IA, análise de dados e desenvolvimento web.</h3>  
   <hr style="border: 1px solid black;">
 
   
 - Tenho conhecimento em várias linguagens de programação, como Python, PHP, SQL, Javascript, C++, MySQL e PostgreSQL. Também tenho experiência nos frameworks Django, Flask, Laravel, Node.js e CodeIgniter.
-- Além disso, participo da equipe de robótica Cavalo Vendado (FTC Team #16786, FRC Team #9066). Lá, atuo como mentor dos alunos e também participo da FRC e outras competições. [Cavalo Vendado](https://www.instagram.com/cavalovendado/)  
+- Além disso, participo da equipe de robótica Cavalo Vendado (FTC Team #16786, FRC Team #9066). Lá, atuo como mentor dos alunos e também participo ativamente da FRC e outras competições de nível nacional e internacional. [Cavalo Vendado](https://www.instagram.com/cavalovendado/)  
  <hr style="border: 1px solid black;">
  
  <h3 align="center">Connect with me:</h3>  
